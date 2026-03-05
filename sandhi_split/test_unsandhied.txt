@@ -1,0 +1,57 @@
+तथा [
+    indecls:
+        - tathā (indeclinable)
+] च [
+    forms:
+        - ca (Root, Voc. Sg)
+    indecls:
+        - ca (indeclinable)
+] मन्त्र-वर्णः [
+    parts:
+        - mantra → forms: mantra (Root, Voc. Sg)
+        - varṇaḥ → forms: varṇaḥ (Nom. Sg)
+] — ‘अ-पाणि-पादः [
+    parts:
+        - a → forms: a (Root, Voc. Sg)
+        - pāṇi → forms: pāṇi (Acc. Sg, Nom. Sg, Root, Voc. Sg)
+        - pādaḥ → forms: pādaḥ (Nom. Pl, Nom. Sg, Voc. Pl)
+] जवनः [
+    forms:
+        - javanaḥ (Nom. Sg)
+] ग्रहीताअ (श्वे। उ। [
+    forms:
+        - u (Acc. Sg, Nom. Sg, Root, Voc. Sg)
+] ३ । २९) इत्यादिः [
+    forms:
+        - ityādiḥ (Nom. Sg)
+] । केन-अभिप्रायेण-इति-आह [
+    parts:
+        - kena → forms: kena (Ins Sg) | pronouns: kena (pronoun)
+        - abhiprāyeṇa → forms: abhiprāyeṇa (Ins Sg)
+        - iti → forms: iti (Root) | indecls: iti (indeclinable)
+        - āha → verbs: 3 singular perfect parasmaipada (ah)
+] — लोकानम्भः-प्रभृतीन्-प्राणि-कर्म-फल-उपभोग-स्थान-भूतान् [
+    parts:
+        - lokānambhaḥ
+        - prabhṛtīn
+        - prāṇi → forms: prāṇi (Acc. Pl, Acc. Sg, Loc Sg, Nom. Pl, Nom. Sg, Voc. Pl, Voc. Sg) | verbs: 2 1 singular imperative parasmaipada (prā#1)
+        - karma → forms: karma (Acc. Sg, Nom. Sg, Voc. Sg)
+        - phala → forms: phala (Root, Voc. Sg) | verbs: 1 2 singular imperative parasmaipada (phal)
+        - upabhoga → forms: upabhoga (Root, Voc. Sg)
+        - sthāna → forms: sthāna (Root, Voc. Sg)
+        - bhūtān → forms: bhūtān (Acc. Pl)
+] नु [
+    forms:
+        - nu (Root)
+    indecls:
+        - nu#2 (indeclinable)
+] सृजै सृजे-अहम् [
+    parts:
+        - sṛje
+        - aham → forms: aham (Acc. Sg, Nom. Sg) | pronouns: aham (pronoun)
+] इति [
+    forms:
+        - iti (Root)
+    indecls:
+        - iti (indeclinable)
+] ॥

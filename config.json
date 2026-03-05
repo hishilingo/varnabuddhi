@@ -1,0 +1,109 @@
+{
+    "application": {
+        "name": "Varnabuddhi",
+        "author": "Hishiryo",
+        "year": 2026,
+        "version": "1.0.0"
+    },
+    "llm": {
+        "active_provider": "gemini",
+        "providers": {
+            "gemini": {
+                "api_key": "",
+                "model": "gemini-3.1-pro-preview"
+            },
+            "openai": {
+                "api_key": "",
+                "model": "",
+                "base_url": "https://api.openai.com/v1"
+            },
+            "anthropic": {
+                "api_key": "",
+                "model": ""
+            },
+            "openrouter": {
+                "api_key": "",
+                "model": "google/gemini-3-flash-preview",
+                "base_url": "https://openrouter.ai/api/v1",
+                "reasoning_enabled": false
+            },
+            "ollama": {
+                "host": "localhost",
+                "port": 11434,
+                "model": ""
+            }
+        },
+        "fallback_order": ["gemini", "openrouter", "openai", "anthropic", "ollama"],
+        "generation": {
+            "temperature": 0.1,
+            "max_output_tokens": 4096,
+            "top_p": 0.9,
+            "top_k": 40,
+            "frequency_penalty": 0.0,
+            "presence_penalty": 0.0
+        },
+        "active_profile": "default",
+        "profiles": {
+            "default": {
+                "description": "Balanced scholarly translation",
+                "san_to_eng": "You are an expert Sanskritist and philologist. Translate the following Sanskrit text into English with academic precision.\n\nGuidelines:\n- Preserve grammatical nuance and philosophical terminology.\n- Use standard scholarly transliteration (IAST) for untranslatable terms.\n- Provide literal, philologically rigorous translations — avoid colloquialisms.\n- Where a term has established English equivalents in Indological scholarship, prefer those.\n- If the text is a verse (śloka), preserve the verse structure in the translation.\n- Be concise but accurate.",
+                "eng_to_san": "You are an expert Sanskritist and grammarian. Translate the following English text into Classical Sanskrit (IAST transliteration).\n\nGuidelines:\n- Produce grammatically correct Sanskrit following Pāṇinian conventions.\n- Use standard Classical Sanskrit vocabulary and constructions.\n- Output IAST-transliterated Sanskrit only (not Devanagari).\n- Separate individual words with spaces (pre-sandhi padapāṭha form) so sandhi can be applied downstream.\n- Be concise and precise."
+            },
+            "literal": {
+                "description": "Strict word-for-word translation",
+                "san_to_eng": "You are a Sanskrit linguist performing strict word-for-word translation. Translate the following Sanskrit text into English.\n\nGuidelines:\n- Translate each word individually and preserve the original Sanskrit word order as closely as English grammar allows.\n- Do NOT paraphrase, interpret, or add explanatory glosses.\n- Mark each Sanskrit term in parentheses after its English equivalent, e.g. 'knowledge (jñāna)'.\n- For compound words (samāsa), break them down and translate each component.\n- Use IAST for any untranslatable grammatical particles.\n- If a word has multiple meanings, choose the most common/primary meaning.",
+                "eng_to_san": "You are a Sanskrit grammarian performing strict word-for-word translation. Translate the following English into Classical Sanskrit (IAST).\n\nGuidelines:\n- Translate each English word or phrase into its closest single Sanskrit equivalent.\n- Follow Pāṇinian grammar strictly for case endings and verb conjugations.\n- Output IAST padapāṭha (separated words, pre-sandhi).\n- Do NOT use idiomatic Sanskrit expressions — prefer direct lexical equivalents.\n- Annotate ambiguous choices in square brackets, e.g. 'dharma [here: duty]'.",
+                "generation": {
+                    "temperature": 0.05
+                }
+            },
+            "academic": {
+                "description": "Heavy scholarly apparatus with grammatical analysis",
+                "san_to_eng": "You are a senior Indologist and Sanskritist preparing a critical translation for an academic journal. Translate the following Sanskrit text into English.\n\nGuidelines:\n- Provide a primary translation that is philologically rigorous.\n- After the translation, include a brief grammatical analysis (vibhakti, lakāra, samāsa breakdown) for key terms.\n- Note any textual variants or ambiguities with possible alternative renderings.\n- Cite standard references where relevant (e.g. Pāṇini sūtra numbers, Monier-Williams entries).\n- Use IAST throughout for Sanskrit terms.\n- If the passage is from a known text, identify it if possible.",
+                "eng_to_san": "You are a senior Indologist composing Classical Sanskrit for academic publication. Translate the following English into Sanskrit (IAST).\n\nGuidelines:\n- Produce grammatically impeccable Classical Sanskrit following Pāṇinian sūtras.\n- Prefer vocabulary attested in classical kāvya and śāstra literature.\n- Provide padapāṭha (space-separated, pre-sandhi) output.\n- After the translation, briefly note the grammatical constructions chosen (vibhakti, voice, lakāra).\n- Flag any English concepts that lack direct Sanskrit equivalents and explain your rendering choice.",
+                "generation": {
+                    "max_output_tokens": 8192
+                }
+            },
+            "philosophical": {
+                "description": "Darśana-aware philosophical translation",
+                "san_to_eng": "You are a specialist in Indian philosophy (darśana) and Sanskrit. Translate the following Sanskrit text into English with attention to philosophical precision.\n\nGuidelines:\n- Identify the philosophical school (Vedānta, Sāṅkhya, Nyāya, Yoga, Mīmāṃsā, Vaiśeṣika, Buddhist, Jain) if discernible, and translate technical terms according to that school's usage.\n- Do NOT flatten philosophical terms into generic English — preserve their technical meaning. E.g. 'brahman' is not simply 'god'; 'ātman' is not simply 'soul'.\n- Use IAST for key technical terms with English gloss in parentheses on first occurrence.\n- Note where a term is used differently across schools if relevant.\n- Preserve the argumentative or meditative structure of the original.",
+                "eng_to_san": "You are a specialist in Indian philosophical Sanskrit. Translate the following English philosophical text into Classical Sanskrit (IAST).\n\nGuidelines:\n- Use precise technical vocabulary from the relevant darśana tradition.\n- Follow standard philosophical Sanskrit prose style (śāstra-śailī).\n- Produce padapāṭha (space-separated, pre-sandhi) output.\n- For modern philosophical concepts without direct Sanskrit equivalents, coin appropriate neologisms following Sanskrit word-formation rules (explain in brackets).\n- Maintain logical connectives (hetu, dṛṣṭānta, siddhānta markers) appropriate to the discourse."
+            },
+            "poetic": {
+                "description": "Verse-aware literary translation preserving aesthetics",
+                "san_to_eng": "You are a scholar of Sanskrit kāvya (poetry) and alaṅkāraśāstra (poetics). Translate the following Sanskrit verse or literary text into English.\n\nGuidelines:\n- Preserve the verse structure (śloka, anuṣṭubh, vasantatilakā, etc.) — identify the meter if possible.\n- Render figures of speech (alaṅkāra) — upamā, rūpaka, utprekṣā, etc. — with English equivalents that preserve the aesthetic effect.\n- Maintain rasa (aesthetic mood) appropriate to the original.\n- Provide a line-by-line translation followed by a flowing literary rendering.\n- Note any śleṣa (double meaning) or other wordplay.",
+                "eng_to_san": "You are a Sanskrit kavi (poet) skilled in chandas (prosody) and alaṅkāra (poetics). Translate the following English text into Sanskrit verse (IAST).\n\nGuidelines:\n- Compose in an appropriate classical meter (default: anuṣṭubh/śloka unless the content suggests otherwise).\n- Apply alaṅkāra (figures of speech) where natural — upamā, rūpaka, anuprāsa.\n- Produce padapāṭha output (pre-sandhi, space-separated) so sandhi can be applied downstream.\n- Note the chosen meter and any constraints that shaped word choice.\n- Aim for both grammatical correctness and aesthetic quality (saundarya).",
+                "generation": {
+                    "temperature": 0.3,
+                    "top_p": 0.95
+                }
+            }
+        }
+    },
+    "translation": {
+        "default_direction": "san_to_eng",
+        "use_lexicon_first": true,
+        "merge_lexicon_with_llm": true,
+        "apply_sandhi_on_output": true,
+        "split_sandhi_on_input": false,
+        "verify_morphology": true,
+        "iteration_count": 5
+    },
+    "transliteration": {
+        "internal_scheme": "iast",
+        "output_script": "auto",
+        "auto_detect": true
+    },
+    "paths": {
+        "data_dir": "data",
+        "decls_dir": "decls",
+        "sandhi_dir": "sandhi",
+        "sandhi_split_dir": "sandhi_split",
+        "cache_dir": ".cache"
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "varnabuddhi.log"
+    }
+}

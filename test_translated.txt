@@ -1,0 +1,150 @@
+--- [1/2] ---
+Source: न हि तैमिरिकदृष्ट्या अध्यारोपितस्य द्विचन्द्रादेः तिमिरापगमेऽपि शेषः अवतिष्ठते । एवं च सति इदं वचनम् उपपन्नम् ‘सर्वकर्माणि मनसाऽ (भ. गी. ५ । १३) इत्यादि, ‘स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरःऽ (भ. गी. १८ । ४५) ‘स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवःऽ (भ. गी. १८ । ४६) इति च
+
+**Translation:**
+
+For indeed, no remainder of that which is superposed (*adhyāropita*)—such as the double-moon and so forth—by the vision of one afflicted with ophthalmia (*taimirika*) persists once the ophthalmia has been removed. This being the case, the following statement [of scripture] is appropriate: “Renouncing all actions with the mind...” (*Bhagavad Gītā* 5.13), etc., and also: “Devoted each to his own respective duty (*karman*), a man attains perfection” (*Bhagavad Gītā* 18.45), [and] “By worshipping Him through his own duty, a human being finds perfection” (*Bhagavad Gītā* 18.46).
+
+**Philological Commentary:**
+
+*   **na hi... śeṣaḥ avatiṣṭhate:** The construction uses the emphatic *hi* with the negative *na* to establish a logical impossibility. *Śeṣaḥ* (remainder/residue) refers to the persistence of an illusory object after its causal ignorance (*avidyā/timira*) is sublated.
+*   **adhyāropitasya:** A technical term in Advaita Vedānta meaning "superimposed." It refers to the attribution of qualities belonging to one thing onto another (the *atasmistadbuddhiḥ*).
+*   **taimirika-dṛṣṭyā:** "By the vision of one with *timira*." *Timira* is a standard metaphorical medical condition (cataracts or diplopia) used in Indian philosophy to illustrate subjective error in perception.
+*   **evaṃ ca sati:** A locative absolute construction meaning "and this being so" or "under these circumstances," used here to bridge the ontological argument with the scriptural (*śāstra*) authority.
+*   **upapannam:** "Logically tenable" or "appropriate." It signifies that the quoted verses from the *Bhagavad Gītā* are consistent with the preceding philosophical demonstration.
+*   **sve sve karmaṇi:** The distributive compound (repetition of *sva*) emphasizes the specific duties relative to an individual's *varṇa* and *āśrama*, which are valid within the sphere of empirical reality (*vyavahāra*).
+
+Padapāṭha:
+  na  —  Voc. Sg [m] (root: na (m)) | Voc. Sg [n] (root: na (n)) | Voc. Sg [m] (root: na (m))  —  "not"
+  hi  —  headword — 2. hi, ind. (probably to be connected with rt. 1. hi; cf. hetu), for, because, o  —  "really"
+  taimirikadṛṣṭyā
+  adhyāropitasya  —  Gen Sg [m] (root: adhyāropita (m)) | Gen Sg [n] (root: adhyāropita (n))
+  dvicandrādeḥ
+  timirāpagame'pi
+  śeṣaḥ  —  Nom. Sg [m] (root: śeṣa (m)) | Nom. Sg [m] (root: śeṣa (m)) | Nom. Sg [n] (root: śeṣas (n))
+  avatiṣṭhate  —  "becomes established"
+  evaṃ  —  "thus"
+  ca  —  Voc. Sg [m] (root: ca (m)) | Voc. Sg [n] (root: ca (n)) | Voc. Sg [m] (root: ca (m))  —  "and"
+  sati  —  Loc Sg [m] (root: sat (m)) | Voc. Sg [f] (root: satī (f)) | Loc Sg [n] (root: sat (n))  —  "being"
+  idaṃ  —  "this"
+  vacanam  —  Acc. Sg [m] (root: vacana (m)) | Nom. Sg [n] (root: vacana (n)) | Acc. Sg [n] (root: vacana (n))  —  "Speech; saying; order, command."
+  upapannam  —  Acc. Sg [m] (root: upapanna (m)) | Nom. Sg [n] (root: upapanna (n)) | Acc. Sg [n] (root: upapanna (n))
+  ‘sarvakarmāṇi
+  manasā'
+  (bha
+  gī
+  13)
+  ityādi  —  Nom. Sg [n] (root: ityādi (n)) | Acc. Sg [n] (root: ityādi (n))
+  ‘sve
+  sve  —  Loc Sg [m] (root: sva (m)) | Nom. Dual [n] (root: sva (n)) | Voc. Dual [n] (root: sva (n))
+  karmaṇyabhirataḥ
+  saṃsiddhiṃ  —  "in perfection"
+  labhate  —  3rd Person Sg (Present) Atmanepada (dhātu: labh)  —  "(1 ap) to get, to obtain"
+  naraḥ'
+  (bha
+  gī
+  18
+  45)
+  ‘svakarmaṇā
+  tamabhyarcya
+  siddhiṃ  —  "powers"
+  vindati  —  "(6 pp) to find"
+  mānavaḥ'
+  (bha
+  gī
+  18
+  46)
+  iti  —  headword — iti may form an adverbial compound with the name of an author (e. g. itipāṇini,   —  "like that"
+  ca  —  Voc. Sg [m] (root: ca (m)) | Voc. Sg [n] (root: ca (n)) | Voc. Sg [m] (root: ca (m))  —  "and"
+
+Samāsa analysis:
+  - **taimirikadṛṣṭyā** → ṢAṢṬHĪ-TATPURUṢA: *taimirika* (one suffering from partial blindness/cataracts) + *dṛṣṭyā* (by the vision/sight)
+  - **dvicandrādeḥ** → BAHUVRĪHI: *dvicandra* (two moons) + *ādeḥ* (beginning with; etcetera)
+  - **timirāpagame'pi** → ṢAṢṬHĪ-TATPURUṢA: *timira* (darkness/optical disorder) + *apagame* (upon the removal/departure) + *api* (even/also)
+  - **avatiṣṭhate** → VERBAL FORM (Not a nominal compound): *ava* (prefix: down/off) + √*sthā* (root: to stand/remain) [Ātmanepada, Present Indicative]
+  - **sarvakarmāṇi** → KARMADHĀRAYA: *sarva* (all) + *karmāṇi* (actions/duties)
+  - **karmaṇyabhirataḥ** → SAPTAMĪ-TATPURUṢA: *karmaṇi* (in action/duty) + *abhirataḥ* (devoted to/delighting in)
+  - **saṃsiddhiṃ** → UPASARGA-SAMĀSA (Nominal derivative): *sam* (prefix: complete/perfect) + *siddhiṃ* (attainment/perfection)
+  - **svakarmaṇā** → ṢAṢṬHĪ-TATPURUṢA: *sva* (one's own) + *karmaṇā* (by action/duty)
+
+  [Semantic search hints provided]
+  [Confidence: HIGH]
+  [Grammar analysis: 12 words tagged]
+  [Lexicon hints were provided to the LLM]
+
+--- [2/2] ---
+Source: na hi taimirikadṛṣṭyā adhyāropitasya dvicandrādeḥ timirāpagame'pi śeṣaḥ avatiṣṭhate । evaṃ ca sati idaṃ vacanam upapannam ‘sarvakarmāṇi manasā' (bha. gī. 5 । 13) ityādi, ‘sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ' (bha. gī. 18 । 45) ‘svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ' (bha. gī. 18 । 46) iti ca
+
+### Philological Translation
+
+**Text:**
+*na hi taimirikadṛṣṭyā adhyāropitasya dvicandrādeḥ timirāpagame'pi śeṣaḥ avatiṣṭhate । evaṃ ca sati idaṃ vacanam upapannam ‘sarvakarmāṇi manasā' (bha. gī. 5.13) ityādi, ‘sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ' (bha. gī. 18.45) ‘svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ' (bha. gī. 18.46) iti ca*
+
+**Translation:**
+For indeed, no residue of the "double-moon" or other [illusions] superposed (*adhyāropita*) by the vision of one afflicted with ophthalmia (*taimirika*) remains once the ophthalmia has been removed. This being the case (*evaṃ ca sati*), the [scriptural] statement beginning with "all actions [renounced] by the mind" (BhG 5.13), as well as [the statements] "Devoted to his own respective duty, a man attains perfection" (BhG 18.45) and "By worshipping Him through his own duty, a human being finds success" (BhG 18.46), becomes logically tenable (*upapannam*).
+
+### Grammatical and Philosophical Notes:
+
+*   **na hi... śeṣaḥ avatiṣṭhate:** A standard Vedāntic argument regarding the total sublation (*bādha*) of an illusory object. When the causal defect (*doṣa*), here *timira* (cataract or partial blindness), is removed, the superposed (*adhyāropita*) appearance leaves no trace.
+*   **taimirika-dṛṣṭyā:** Instrumental singular. The "vision of one with *timira*." This is a classic *dṛṣṭānta* (example) in Advaita Vedānta to illustrate how *avidyā* (ignorance) projects a false plurality onto a non-dual reality.
+*   **evaṃ ca sati:** A locative absolute construction meaning "and this being so" or "under these circumstances." It serves to link the ontological argument (the removal of illusion) to the hermeneutical justification of the *Bhagavad Gītā* verses.
+*   **upapannam:** Nominative singular neuter. "Justified," "proven," or "logically consistent." It refers to the *vacanam* (the collective body of scriptural utterances cited).
+*   **ityādi:** "Beginning with" or "et cetera." It indicates that the first quotation (BhG 5.13) represents a class of statements regarding the mental renunciation of action.
+
+Padapāṭha:
+  na  —  Voc. Sg [m] (root: na (m)) | Voc. Sg [n] (root: na (n)) | Voc. Sg [m] (root: na (m))  —  "not"
+  hi  —  headword — 2. hi, ind. (probably to be connected with rt. 1. hi; cf. hetu), for, because, o  —  "really"
+  taimirikadṛṣṭyā
+  adhyāropitasya  —  Gen Sg [m] (root: adhyāropita (m)) | Gen Sg [n] (root: adhyāropita (n))
+  dvicandrādeḥ
+  timirāpagame'pi
+  śeṣaḥ  —  Nom. Sg [m] (root: śeṣa (m)) | Nom. Sg [m] (root: śeṣa (m)) | Nom. Sg [n] (root: śeṣas (n))
+  avatiṣṭhate  —  "becomes established"
+  evaṃ  —  "thus"
+  ca  —  Voc. Sg [m] (root: ca (m)) | Voc. Sg [n] (root: ca (n)) | Voc. Sg [m] (root: ca (m))  —  "and"
+  sati  —  Loc Sg [m] (root: sat (m)) | Voc. Sg [f] (root: satī (f)) | Loc Sg [n] (root: sat (n))  —  "being"
+  idaṃ  —  "this"
+  vacanam  —  Acc. Sg [m] (root: vacana (m)) | Nom. Sg [n] (root: vacana (n)) | Acc. Sg [n] (root: vacana (n))  —  "Speech; saying; order, command."
+  upapannam  —  Acc. Sg [m] (root: upapanna (m)) | Nom. Sg [n] (root: upapanna (n)) | Acc. Sg [n] (root: upapanna (n))
+  ‘sarvakarmāṇi
+  manasā'
+  (bha
+  gī
+  13)
+  ityādi  —  Nom. Sg [n] (root: ityādi (n)) | Acc. Sg [n] (root: ityādi (n))
+  ‘sve
+  sve  —  Loc Sg [m] (root: sva (m)) | Nom. Dual [n] (root: sva (n)) | Voc. Dual [n] (root: sva (n))
+  karmaṇyabhirataḥ
+  saṃsiddhiṃ  —  "in perfection"
+  labhate  —  3rd Person Sg (Present) Atmanepada (dhātu: labh)  —  "(1 ap) to get, to obtain"
+  naraḥ'
+  (bha
+  gī
+  18
+  45)
+  ‘svakarmaṇā
+  tamabhyarcya
+  siddhiṃ  —  "powers"
+  vindati  —  "(6 pp) to find"
+  mānavaḥ'
+  (bha
+  gī
+  18
+  46)
+  iti  —  headword — iti may form an adverbial compound with the name of an author (e. g. itipāṇini,   —  "like that"
+  ca  —  Voc. Sg [m] (root: ca (m)) | Voc. Sg [n] (root: ca (n)) | Voc. Sg [m] (root: ca (m))  —  "and"
+
+Samāsa analysis:
+  - **taimirikadṛṣṭyā** → TATPURUṢA (Ṣaṣṭhī): *taimirika* (one suffering from partial blindness/cataracts) + *dṛṣṭyā* (by the vision/sight)
+  - **dvicandrādeḥ** → BAHUVRĪHI: *dvicandra* (two moons) + *ādeḥ* (beginning with/and so forth)
+  - **timirāpagame'pi** → TATPURUṢA (Ṣaṣṭhī): *timira* (darkness/morbid vision) + *apagame* (upon the removal/departure) + *api* (even)
+  - **avatiṣṭhate** → VERBAL FORM (not a nominal compound): *ava* (down/off/prefix) + *tiṣṭhate* (stands/remains)
+  - **sarvakarmāṇi** → KARMADHĀRAYA: *sarva* (all) + *karmāṇi* (actions/works)
+  - **karmaṇyabhirataḥ** → TATPURUṢA (Saptamī): *karmaṇi* (in action) + *abhirataḥ* (delighting in/devoted to)
+  - **saṃsiddhiṃ** → UPAPADA/PREFIX COMPOUND: *sam* (completely/perfectly) + *siddhiṃ* (attainment/perfection)
+  - **svakarmaṇā** → TATPURUṢA (Ṣaṣṭhī): *sva* (one's own) + *karmaṇā* (by the action/duty)
+
+  [Semantic search hints provided]
+  [Confidence: HIGH]
+  [Grammar analysis: 12 words tagged]
+  [Lexicon hints were provided to the LLM]
