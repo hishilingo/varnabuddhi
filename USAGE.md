@@ -198,6 +198,12 @@ All settings are in `config.json`.
         "api_key": "YOUR_KEY",
         "model": "claude-sonnet-4-20250514"
     },
+    "openrouter": {
+                "api_key": "YOUR_KEY",
+                "model": "google/gemini-3-flash-preview",
+                "base_url": "https://openrouter.ai/api/v1",
+                "reasoning_enabled": false
+    },
     "ollama": {
         "host": "localhost",
         "port": 11434,
