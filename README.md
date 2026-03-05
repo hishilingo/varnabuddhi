@@ -8,9 +8,8 @@ A cross-platform Python CLI that combines LLM intelligence with local lexical da
 
 - **Bidirectional translation** — Sanskrit → English and English → Sanskrit
 - **Streaming LLM output** — tokens appear in real time as they're generated
-- **Multi-provider LLM support** — Google Gemini (default), OpenAI, Anthropic, Ollama (local)
+- **Multi-provider LLM support** — Google Gemini (default), OpenAI, Anthropic, Openrouter.ai, Ollama (local)
 - **5 prompt profiles** — default, literal, academic, philosophical, poetic
-- **Local lexicon** — 40,000+ entries from Bhagavad Gītā, Rāmāyaṇa, Mahābhārata, Upaniṣads
 - **Morphological verification** — declension/conjugation tables + Monier-Williams dictionary
 - **Sandhi processing** — Perl-based joining (per word-boundary) and neural splitting
 - **Script support** — Devanagari input auto-detected, IAST used internally, output in IAST / Devanagari / both
@@ -115,6 +114,12 @@ See `config.json` for all options. Key sections:
 - **`translation`** — iteration count, lexicon behavior, sandhi toggles
 - **`transliteration.output_script`** — `iast`, `devanagari`, or `both`
 
+## Credits
+
+Idea/Development: Hishiryo 2026
+
 ## License
 
-Academic use. Author: Hishiryo, 2026.
+वर्णबुद्धि — Varnabuddhi is licensed under the Apache License, Version 2.0
+
+
